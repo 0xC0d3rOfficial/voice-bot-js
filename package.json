@@ -1,0 +1,17 @@
+{
+  "name": "zakaz",
+  "version": "1.0.0",
+  "description": "Discord bot for zakaz",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lolka.",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "fs": "0.0.1-security",
+    "mongoose": "^5.13.0",
+    "ms": "^2.1.3"
+  }
+}
